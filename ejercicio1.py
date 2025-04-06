@@ -1,3 +1,6 @@
+# Trabajo en Clases Christian Sangucho
+## Ejercicios para la conexión a una BDD y gráficas
+
 import psycopg2
 import json
 from datetime import datetime
